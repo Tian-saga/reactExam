@@ -1,7 +1,5 @@
 # React In-class Exam, November 2024
 
-Zitian Zhong
-20109120
 
 
 # React In-class Exam, November 2024
@@ -73,9 +71,9 @@ Add your name and student number to the README.md file, as shown below:
 ~~~markdown
 # React In-class Exam, November 2024
 
-Your Name, Student Number
-...
-~~~
+Zitian Zhong
+20109120
+
 
 Push your changes to GitHub:
 
